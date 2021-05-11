@@ -1,0 +1,13 @@
+.body_background{
+background-image: url(bg1.jpg);
+background-position: center;
+background-size: cover;
+}
+h1{
+    font-size: 60px;
+    color: blueviolet;
+}
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+}
